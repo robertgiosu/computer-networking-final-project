@@ -21,7 +21,7 @@ The implementation includes:
 
 ## Network Topology
 
-![Network Topology](Subnetting diagram.png)
+![Network Topology](Subnetting%20diagram.png)
 
 ## IP Addressing
 
